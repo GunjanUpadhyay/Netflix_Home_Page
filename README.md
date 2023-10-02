@@ -1,1 +1,6 @@
 live Preview : ![Screenshot 2023-10-02 094247](https://github.com/GunjanUpadhyay/Netflix_Home_Page/assets/115905843/b1c6bd54-adc0-4673-85a5-76f511e6e87a)
+![Screenshot 2023-10-02 094459](https://github.com/GunjanUpadhyay/Netflix_Home_Page/assets/115905843/fef8f91b-d752-44fa-8f5e-a561b61e46be)
+![Screenshot 2023-10-02 094650](https://github.com/GunjanUpadhyay/Netflix_Home_Page/assets/115905843/a2ff87ed-0ad1-4193-b09b-d4a322fb6905)
+![Screenshot 2023-10-02 094726](https://github.com/GunjanUpadhyay/Netflix_Home_Page/assets/115905843/0cbec136-5592-42dc-8a59-6d1ab9e838b7)
+![Screenshot 2023-10-02 094806](https://github.com/GunjanUpadhyay/Netflix_Home_Page/assets/115905843/fe5c3276-8679-4717-a895-0827978049d8)
+![Screenshot 2023-10-02 094837](https://github.com/GunjanUpadhyay/Netflix_Home_Page/assets/115905843/61bbc7fd-a5fd-4f80-938a-219f453f4120)
